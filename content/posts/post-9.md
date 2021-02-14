@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: "Soyabean Distribution "
-status: Featured
+status: Published
 date: 2021-02-15
 featuredImage: https://ucarecdn.com/c2248f47-19cd-4d9e-921b-53811e6988af/
 excerpt: Distribution of certified soyabean seeds (favour) to our registered farmers.
