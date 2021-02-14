@@ -1,57 +1,36 @@
 ---
 template: SinglePost
-title: Red
-status: Featured / Published
-date: '2018-03-27'
-featuredImage: 'https://ucarecdn.com/94633346-778b-4474-8039-b18280ec73a3/'
-excerpt: >-
-  Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam
-  interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus
-  est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
-  pellentesque, lacinia risus ut, imperdiet eros.
+title: Distribution of certified soyabean seeds (favour) to our registered farmers.
+status: Featured
+date: 2021-02-15
+featuredImage: https://ucarecdn.com/0c52625a-034d-4af8-98c1-67f05e581199/
+excerpt: Distribution of certified soyabean seeds (favour) to our registered farmers.
 categories:
-  - category: News
+  - category: Our Stories
 meta:
-  canonicalLink: ''
-  description: test meta description
+  canonicalLink: ""
+  description: ""
   noindex: false
-  title: test meta title
+  title: ""
 ---
-Paragraphs are separated by a blank line.
+![Image](https://ucarecdn.com/e2c01a19-699b-4d72-9708-2f0e77f60270/ "Soyabean seeds")
 
-![Test Image](https://ucarecdn.com/ac9898a0-413a-467b-95fa-0a9959c30710/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UOsV_Q4Iwfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Id64silK_7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
 
-### Unordered lists:
+**Harvesting Soybean.**
 
-* this one
-* that one
-* the other one
+Janguma, Afayak and Favour are some of the names of various varieties os soyabeans grown in Ghana and farmers choose the variety to plant based on their individual characteristics. 
 
-### Ordered lists:
 
-1. first item
-2. second item
-3. third item
 
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
+**AgroNorth** decided to go in for favour which is a new variety that was introduced in Ghana by the Council for Scientific Research - Savannah Agricultural Research Institute ( CSIR -SARI ) in 2019.
 
-## Heading 2
 
-# Heading 1
 
-## Heading 2
+Interestingly , this new variety was named favor because of the many qualities it possess. It tends to enrich the soil by sheltering more leaves which serves as organic matter to the soil. It yields more than other varieties, it is also more resistant to diseases and it has low shattering.
 
-### Heading 3
 
-#### Heading 4
 
-##### Heading 5
-
-###### Heading 6
+**AgroNorth** distributed this new variety to 360 farmers in 3 different communities namely Nagdigu, Yemo-Karaga and Kutung.
