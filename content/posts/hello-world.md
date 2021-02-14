@@ -1,12 +1,12 @@
 ---
 template: SinglePost
 title: Distribution of certified soyabean seeds (favour) to our registered farmers.
-status: Featured
+status: Published
 date: 2021-02-15
 featuredImage: https://ucarecdn.com/0c52625a-034d-4af8-98c1-67f05e581199/
 excerpt: Distribution of certified soyabean seeds (favour) to our registered farmers.
 categories:
-  - category: Our Stories
+  - category: News
 meta:
   canonicalLink: ""
   description: ""
