@@ -1,9 +1,9 @@
 ---
 template: SinglePost
-title: Distribution of certified soyabean seeds (favour) to our registered farmers.
+title: Meet Alhassan Yakubu
 status: Published
 date: 2020-02-12
-featuredImage: https://ucarecdn.com/e1907526-6a26-41c5-80e7-f736f5eb3f7c/
+featuredImage: https://ucarecdn.com/21e99914-b663-4b17-9550-1ead46a03934/
 excerpt: Distribution
 categories:
   - category: News
@@ -11,10 +11,8 @@ meta:
   description: " description"
   title: " title"
 ---
-Janguma, Afayak and Favour are some of the names of the various varieties of soybeans grown in Ghana and farmers choose the variety to plant based on their individual characteristics.
-AgroNorth decided to go in for favour which is a new variety that was introduced in Ghana by the Council for Scientific Research – Savannah Agricultural Research Institute (CSIR-SARI) in 2019.
 
 
+Meet Alhassan Yakubu, a Soybean farmer in Nagdigu community of Nanton district in the Northern region of Ghana, gathering the rest of his harvest in his farm to be threshed. He is excited about the outcome of his harvest after he was introduced to the favour soybean variety by AgroNorth.
 
-Interestingly, this new variety was named favour because of the many qualities it possesses. It tends to enrich the soil by sheltering more leaves which serves as organic matter to the soil. It yields more than the other varieties, it is also more resistant to diseases and it has low shattering.
-AgroNorth distributed this new variety to 360 farmers in 3 different communities namely Nagdigu, Yemo-Karaga and Kutung.
+AgroNorth has many registered farmers like Alhassan, who have successfully worked with AgronNorth and gotten good quality seeds which have lead to a higher yield.
