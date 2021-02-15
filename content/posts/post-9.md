@@ -3,7 +3,7 @@ template: SinglePost
 title: "Soyabean Distribution "
 status: Published
 date: 2021-02-15
-featuredImage: https://ucarecdn.com/c2248f47-19cd-4d9e-921b-53811e6988af/
+featuredImage: https://ucarecdn.com/ddd37f25-4077-430f-8aad-4504639f8122/
 excerpt: Distribution of certified soyabean seeds (favour) to our registered farmers.
 categories:
   - category: News
