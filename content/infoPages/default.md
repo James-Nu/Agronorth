@@ -1,11 +1,11 @@
 ---
 template: DefaultPage
-slug: DefaultPage
+slug: default
 title: About Us
 featuredImage: https://ucarecdn.com/5c396301-8780-4f15-98c7-e67335fbc658/
 meta:
-  description: default
-  title: default
+  description: defaultpage
+  title: defaultpage
 ---
 
 The ideation of AgroNorth by a team of three young people who have a strong desire to contribute significant change in the lives of rural smallholder farmers began to take shape in 2012 during the Third Trimester Field Practical Program (TTFPP) of the University for Development where we posted to rural communities in the Northern Region of Ghana. During this period we were enlightened about the critical challenges confronting rural farmers in soybean cultivation within the region. For instance, “Nagdigu”, a community located in the Northern Region of Ghana is a major producer of soybean. However, due to limited resources farmers in this community and others alike are unable to expand into commercial farming despite the huge economic and nutritional value of the soybean crop.
