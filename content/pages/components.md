@@ -31,7 +31,7 @@ accordion:
       cost-effective sustainable farming and services, providing value to the
       Company and our farmers.
     title: "Innovation "
-  - description: e provide exceptional customer services through flexible, quality
+  - description: We provide exceptional customer services through flexible, quality
       farm inputs, efficient services, and innovative solutions resulting in
       value to the customer and company.
     title: Customer Care
