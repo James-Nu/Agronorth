@@ -7,7 +7,7 @@ export default () => (
       Connect with us on {' '}
       <a href="https://instagram.com/agronorth_llc/">Instagram , </a>
       <a href="https://web.facebook.com/agronorth1"> Facebook  </a> or 
-      <a href="https://www.linkedin.com/company/75732946/admin/">Linkedin </a>
+      <a href="https://www.linkedin.com/company/75732946/admin/"> Linkedin </a>
     </h2>
     <br />
     <footer className="footer">
