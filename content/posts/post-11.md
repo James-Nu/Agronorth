@@ -11,8 +11,6 @@ meta:
   description: " description"
   title: " title"
 ---
-
-
 Meet Alhassan Yakubu, a Soybean farmer in Nagdigu community of Nanton district in the Northern region of Ghana, gathering the rest of his harvest in his farm to be threshed. He is excited about the outcome of his harvest after he was introduced to the favour soybean variety by AgroNorth.
 
-AgroNorth has many registered farmers like Alhassan, who have successfully worked with AgronNorth and gotten good quality seeds which have lead to a higher yield.
+AgroNorth has many registered farmers like Alhassan, who have successfully worked with AgroNorth and gotten good quality seeds which have led to a higher yield.
