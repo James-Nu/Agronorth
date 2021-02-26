@@ -7,6 +7,7 @@ featuredImage: https://ucarecdn.com/9abb1542-4f26-45f8-8677-21d95e91ef60/
 excerpt: Women In Agriculture
 categories:
   - category: Updates
+  - category: News
 meta:
   title: Women In Agriculture
 ---
